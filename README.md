@@ -1,16 +1,33 @@
 @@ -1,63 +1,68 @@
-<header>
+# ,
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+# header 2 ,
+# This is an <h1> header, which is the largest ,
+
+# This is an <h2> header , 
+
+# This is an <h6> header, which is the smallest ,
+ # ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) ,
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+
+ Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 
 -->
+# ```  ,
+# $ git init  ,
+# Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/ ,
+# ``` ,
 
 # Communicate using Markdown
-
+ 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 _Organize ideas and collaborate using Markdow._
 
@@ -70,20 +87,14 @@ In this course, you will:
 
 ### Example
 
-# This is an `<h1>` header, which is the largest
+# $ git init , 
+# Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/ ,
+### Example2
+# ``` javascript ,
+# var myVar = "Hello, world!"; ,  
+# ``` ,
 
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
-#### How it looks
-
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
+# var myVar = "Hello, world!"; ,
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=My+clone+repository&visibility=public)
 ### :keyboard: Activity: Edit your file with headers
 
@@ -111,18 +122,6 @@ In this course, you will:
 index.md
  Viewed
  
-# ,
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-# header 2 ,
-# This is an <h1> header, which is the largest ,
-
-# This is an <h2> header , 
-
-# This is an <h6> header, which is the smallest ,
 
 # ⌨️ Activity: Edit your file with headers ,
 # this is the repitory [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new template_owner=skills&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=My+clone+repository&visibility=public) ,
